@@ -1,0 +1,6 @@
+classes=1
+train=data/trains/train.txt
+valid=data/trains/valid.txt
+names=data/trains/trains.names
+backup=backup/
+eval=yolo
